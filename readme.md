@@ -1,2 +1,5 @@
 este arquivo está no master
-Não deve aparecer nos outros
+
+Essa linha não pode aparecer nos outros branchs
+
+Acrescentei essa linha
