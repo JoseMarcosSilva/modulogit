@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 arquivos/
 style.css
 images.jpg
+=======
+*.jpg
+arquivos/
+*.css
+>>>>>>> parent of 0f798c4 (exclui o ignore)
